@@ -12,13 +12,13 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="til"></img>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"></img>
 <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="three"></img>
-<img src="https://img.shields.io/badge/WebGL-ffffff?style=for-the-badge&logo=webgl&logoColor=990000" alt="webgl"></img>
+<img src="https://img.shields.io/badge/Flutter-#02569B?style=for-the-badge&logo=flutter&logoColor=990000" alt="flutter"></img>
 
 ### Back-End
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next"></img>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express"></img>
-<img src="https://img.shields.io/badge/firebase-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="firebase"></img>
-<img src="https://img.shields.io/badge/gcp-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="GCP"> </img>
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="firebase"></img>
+<img src="https://img.shields.io/badge/googlecloud-#4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"> </img>
 
 ## Social Media 🤝​
 <a href="https://www.linkedin.com/in/diegosalazar27/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin profile"/></a>
