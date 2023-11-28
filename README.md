@@ -17,12 +17,12 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"></img>
 <img src="https://img.shields.io/badge/Apollo_GQL-311C87?style=for-the-badge&logo=apollographql&logoColor=white" alt="Apollo"></img>
 <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="three"></img>
-<img src="https://img.shields.io/badge/Frammer_motion-0055FF?style=for-the-badge&logo=frammer&logoColor=white" alt="frammer"></img>
-<img src="https://img.shields.io/badge/tanstack-query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="tanstack"></img>
+<img src="https://img.shields.io/badge/Frammer_motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="frammer"></img>
+<img src="https://img.shields.io/badge/Tanstack_query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="tanstack"></img>
 
 ### Mobile
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"></img>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"></img>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"></img>
 
 ### Back-End
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next"></img>
